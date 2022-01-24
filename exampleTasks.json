@@ -1,22 +1,12 @@
 [
   {
-    "content": "Learn the latest version of React.js",
+    "content": "Familiarisez-vous avec la dernière version de React.js",
     "done": false,
-    "id": "WNrGePMo-zGxMq0dCkGSl"
+    "id": "0Mw116X2ytWjd7ojjNR5D"
   },
   {
-    "content": "Make a project using React.js",
+    "content": "Créer un projet avec React.js",
     "done": false,
-    "id": "p3uvmxJ2cON_CRIwHVaGr"
-  },
-  {
-    "content": "Write a poem in English",
-    "done": true,
-    "id": "bvsJiIdmbUJ8dXBFgj0xc"
-  },
-  {
-    "content": "Do web application performance tests",
-    "done": false,
-    "id": "jYypO2tWT_w-122MctlPg"
+    "id": "E7Jti9FddvJD_WZB30gtr"
   }
 ]
