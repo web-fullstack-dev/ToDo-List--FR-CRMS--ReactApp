@@ -5,7 +5,6 @@ export const theme = {
     lightSlateGrey: "#778899",
     lightGrey: "#d3d3d3",
     deepSkyBlue: "#00bfff",
-    teal: "#009999",
     crimson: "#ec365b"
   },
   breakpoint: {

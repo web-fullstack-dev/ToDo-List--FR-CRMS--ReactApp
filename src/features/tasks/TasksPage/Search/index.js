@@ -18,7 +18,7 @@ export default () => {
   return (
     <Wrapper>
       <Input 
-        placeholder="Filter tasks"
+        placeholder="Filtrer les tâches"
         value={query || ""}
         onChange={onInputChange}
       />

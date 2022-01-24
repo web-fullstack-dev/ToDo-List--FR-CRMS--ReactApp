@@ -25,7 +25,7 @@ export const Clock = () => {
 
   return (
     <StyledClock>
-      Today is
+      Aujourd'hui est
       {" "}
       {formatDate(date)}
     </StyledClock>
